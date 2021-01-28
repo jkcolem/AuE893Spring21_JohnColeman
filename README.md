@@ -3,4 +3,4 @@ Hello, My name is John Coleman and I'm a first year master thesis student at Cle
 This repository will contain homework assignments and projects for AuE893:Autonomy Science and Systems course.
 
 CODE ORGANIZATION:
-![](AuE893Spring21_JohnColeman/REPO_Path.png)
+![](photo/REPO_Path.png)

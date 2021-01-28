@@ -1,8 +1,3 @@
-@settings {
-  font-size: 16;
-}
-
-
 ASSIGNMET 2 README 
 
 

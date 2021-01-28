@@ -18,4 +18,4 @@ To launch file: roslaunch assingment2_turtlesim openloop.luanch
 To launch file: roslaunch assingment2_turtlesim closedloop.launch
 
 ![](photo/square_closedloop.png)
-![](photo/REPO_Path.png)
+

@@ -4,4 +4,4 @@ This repository will contain homework assignments and projects for AuE893:Autono
 
 CODE ORGANIZATION:
 
-![](AuE893Spring21_JohnColeman/PREPO_Path.png)
+![](Pictures/PREPO_Path.png)
